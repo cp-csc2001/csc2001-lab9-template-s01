@@ -8,7 +8,7 @@ import static org.junit.jupiter.api.Assertions.*;
 /**
  * Tests for QuickSort.
  *
- * Many tests use the example from lecture:
+ * Many tests use the example from lecture: 
  *     {38, 27, 43, 3, 9, 82, 3, 10}
  *
  * These starter tests (with these exact names) should all pass by the
